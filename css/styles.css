@@ -70,7 +70,7 @@
       float: left;
       background-color: #999999;
       border: 1px solid black;
-      margin: 1%;
+      margin: 1% 0 1% 0;
     }
     .col-md-6 {
       width: 47%;
